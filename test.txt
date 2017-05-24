@@ -1,6 +1,0 @@
-git test
-git add 실행후 파일 다시 수정
-git diff 명령을 위해 파일 다시 수정
-
-#test line 
-# hahaha 
